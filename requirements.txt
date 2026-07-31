@@ -1,6 +1,16 @@
+<<<<<<< HEAD
+Flask==3.0.3
+tensorflow==2.17.0
+numpy
+Pillow
+opencv-python-headless
+requests
+gunicorn
+=======
 flask
 tensorflow
 numpy
 opencv-python
 pillow
 requests
+>>>>>>> 5e1b75492f27f1227ca34d9453de3982707f6653
